@@ -13,3 +13,5 @@ Consistent Environments: By guaranteeing consistency across development, testing
 DevSecOps: By incorporating security procedures into the DevOps workflow, security is taken into account from the beginning to the end of the development process, as opposed to being an afterthought.
 Automated Compliance: Constant observation and automated compliance audits make it easier to uphold security norms and laws.
 
+"Continuous Integration and Deployment (CI/CD)":
+With DevOps, code is regularly integrated and tested, reducing the risk of bugs and making deployment more reliable.
