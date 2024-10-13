@@ -1,1 +1,12 @@
-"Content about COMP 3104 DevOps course"
+The COMP3104 DevOps course focuses on teaching you practical skills and tools for 
+software development. You’ll learn how to use important techniques like continuous integration
+and delivery, which help you automate tasks and quickly release applications.
+
+You'll get hands-on experience with popular tools like Git for version control,
+ocker for containerization, and Jenkins for automation.The course also covers the differences 
+between microservices and monolithic architecture and explains how cloud computing fits into today’s development.
+
+Throughout the course, you’ll participate in labs and exercises to practice what you learn
+and work well with others. By the end of the course, you’ll be ready for a job in DevOps, 
+equipped with the skills to manage code quality and make smart decisions about software design.
+
