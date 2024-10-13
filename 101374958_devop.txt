@@ -1,7 +1,0 @@
-Information about the COMP 3104 DevOps course.
-
-The COMP 3104 course, typically referred to as DevOps,
- is part of the curriculum in various computer science and information technology programs at institutions like George Brown College.
-
- The course focuses on the integration of development (Dev) and operations (Ops) to improve the collaboration and productivity of software development teams. 
- It emphasizes practices, tools, and methodologies that support continuous integration, continuous delivery, and automated deployment.
