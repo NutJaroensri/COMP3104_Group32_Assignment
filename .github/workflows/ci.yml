@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: COMP3104 Group32 Assignment1
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 
 on:
