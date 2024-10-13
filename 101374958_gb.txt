@@ -2,3 +2,14 @@ Information about George Brown College.
 My name is Paradee Supapian and My student Number is 101374958
 I'm student Computer Programing at George Brown College
 I'm studying course T177
+
+George Brown College (GBC) is a public college in Toronto, Ontario, Canada. It opened in 1967 and offers many different programs, including certificates, diplomas, and degrees in areas like business, health sciences, community services, early childhood education, hospitality, construction, and the arts.
+
+The college focuses on hands-on learning, giving students real-world experience through internships, placements, and partnerships with businesses.
+
+GBC has three main campuses in downtown Toronto:
+
+St. James Campus (main campus)
+Casa Loma Campus (for skilled trades and technology)
+Waterfront Campus (for health sciences)
+The college is well-known for working closely with employers to help students gain the skills they need for the job market.
