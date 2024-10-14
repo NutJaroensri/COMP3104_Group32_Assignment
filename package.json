@@ -1,0 +1,12 @@
+{
+  "name": "comp3104_group32_assignment",
+  "version": "1.0.0",
+  "description": "- **Leader:** Nut Jaroensri (101422089) - [GitHub](https://github.com/NutJaroensri)\r - **Member 2:** Paradee Supapian (101374958) - [GitHub](https://github.com/Paradee145)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
