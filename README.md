@@ -24,3 +24,9 @@ We’re using a simple but effective branching strategy. Each team member has th
 look like:
 - Nut: 101422089-NutJaroensri
 - Paradee: 101374958-ParadeeSupapian
+
+## Our Mission
+We aim to
+- Master git collaboration by working as a team
+- implement CI using Github actions to automate test and build
+- Follow a smooth and organized branching strategy for our project's development.
